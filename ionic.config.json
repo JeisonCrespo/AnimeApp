@@ -1,0 +1,7 @@
+{
+  "name": "AnimeApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
